@@ -1,3 +1,4 @@
+//CHECKING IF THE TOKEN IS WORKING CORRECTLY FOR THIS REPO.
 /* jshint esversion: 6 */
 
 // Solve the following prompts using recursion.
